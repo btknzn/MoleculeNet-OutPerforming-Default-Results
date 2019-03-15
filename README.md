@@ -37,3 +37,9 @@ For now, I've added 2 ipython notebooks for example usage
 - Graph Convolutions For Tox21
 
 - Multitask Networks On MUV
+
+To run them, firstly start a local jupyter notebook app
+    
+    jupyter notebook
+
+After that, select these files in gui view to run these notebooks.
